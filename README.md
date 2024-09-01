@@ -3,6 +3,6 @@ Data Structures &amp; Algorithms
 
 # Day 1
 
-I am Learing .
+Revise Restart .
 
 More Info [here](Day1/Day1.md).
