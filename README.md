@@ -6,6 +6,21 @@ Data Structures &amp; Algorithms
 Revise Restart .
 
 More Info [here](Day1/Day1.md).
+# Day 2
+
+Revise Restart .
+
+More Info [here](Day2/Day2.md).
+# Day 3
+
+Revise Restart .
+
+More Info [here](Day3/Day3.md).
+# Day 4
+
+Revise Restart .
+
+More Info [here](Day4/Day4.md).
 
 
 Array:
