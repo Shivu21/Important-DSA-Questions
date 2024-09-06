@@ -21,6 +21,11 @@ More Info [here](Day3/Day3.md).
 Revise Restart .
 
 More Info [here](Day4/Day4.md).
+# Day 5
+
+Revise Restart .
+
+More Info [here](Day5/Day5.md).
 
 
 Array:
